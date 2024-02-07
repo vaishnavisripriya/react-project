@@ -1,0 +1,25 @@
+.k1{
+    background-image: url("https://media.istockphoto.com/id/1363894897/photo/chatting-concept-message-bubbles-floating-of-a-laptop-simulating-a-conversation.jpg?s=2048x2048&w=is&k=20&c=I2P1nS_z-Z7JGdxbm_cRTs94V0N3syDq7vXqkpWPpp0=");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+    left: 0%;
+    height: 100%;
+    position: fixed;
+    right: 0;
+}
+.light1{
+    color: white;
+   margin: 70px auto; 
+   /* margin-left: 600px; */
+   /*border:2px solid rgb(237, 243, 242);*/
+   padding: 20px;
+   width: 100px;
+   box-shadow: 0 0 20px rgb(208, 221, 237);
+   border-radius: 10px;
+   text-align: center;
+
+}
+.ava1{
+    margin-left: 255px;
+}
