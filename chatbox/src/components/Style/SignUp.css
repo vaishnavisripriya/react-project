@@ -1,0 +1,26 @@
+.k2{
+    background-image: url("https://media.istockphoto.com/id/862201618/photo/if-you-want-to-say-something-say-it-here.jpg?s=2048x2048&w=is&k=20&c=QOGnoPGR_8Ey-kjhMCzSa039B9xxU3RtF8I26FQvOj0=");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+    left: 0%;
+    height: 100%;
+    position: fixed;
+    right: 0;
+}
+.light2{
+    color: white;
+   margin: 70px auto; 
+   /* margin-left: 600px; */
+   /*border:2px solid rgb(237, 243, 242);*/
+   padding: 20px;
+   width: 100px;
+   box-shadow: 0 0 20px rgb(181, 231, 236);
+   border-radius: 10px; 
+   text-align: center;
+
+}
+.ava2{
+    
+    margin-left: 255px;
+}
